@@ -61,3 +61,16 @@ Y-axis: Məhsul Kateqoriyası — Product Category
 
 ----------------------------------------------------------------------------
 
+Overall Sales Share by Product Category
+This pie chart illustrates the proportion of total sales represented by each product category. Each slice indicates the percentage share of that category in the overall sales.
+![photo_2025-05-25_00-23-28 (3)](https://github.com/user-attachments/assets/a2741583-80b4-4ad7-bd47-df882e4ebbab)
+
+Key insights:
+
+Electronics is the dominant category, making up 58.3% of total sales.
+Other notable categories include Books (5.9%), Kitchen (5.8%), Food (5.7%), and Sports (5.5%).
+The category labeled “Other” accounts for 18.8%, covering all remaining minor categories not listed individually.
+
+Plot Labels:
+
+Title: Məhsul Kateqoriyalarının Ümumi Satışda Payı — Overall Sales Share by Product Category
