@@ -16,3 +16,23 @@ barh – Creates a horizontal bar chart for better readability, especially when 
 plt.text() – Displays the exact sales count next to each bar.
 
 tight_layout() – Optimizes spacing so labels and titles fit neatly.
+
+Distribution of Prices by Category
+This boxplot visualizes the distribution of product prices across different categories. The x-axis represents various product categories (e.g., Clothing, Electronics, Food), and the y-axis shows the corresponding prices.
+
+![photo_2025-05-25_00-23-27](https://github.com/user-attachments/assets/ccdcfe48-5c62-4a40-96fe-5bb0237a6b06)
+ey insights:
+
+Electronics have the highest price range and variability compared to other categories.
+Most other categories, such as Clothing, Toys, and Cosmetics, have relatively lower and more consistent price ranges.
+Outliers and the interquartile range are clearly visible, helping to identify pricing trends and anomalies within each category.
+
+Language: Azerbaijani
+Plot Labels:
+
+Title: Kateqoriyalara görə Qiymət Paylanması (Price Distribution by Category)
+Y-axis: Qiymət (Price)
+X-axis: Məhsul Kateqoriyası (Product Category)
+
+
+
