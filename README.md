@@ -43,7 +43,9 @@ This heatmap illustrates the number of sales across different product categories
 
 ![photo_2025-05-25_00-23-28](https://github.com/user-attachments/assets/5959d155-fc7d-4e0d-8405-3f7312de2197)
 
-Key insights:Electronics, Books, and Clothing are among the top-selling categories, especially at lower discount levels.
+Key insights:
+
+Electronics, Books, and Clothing are among the top-selling categories, especially at lower discount levels.
 Cosmetics and Home Accessories have lower overall sales but respond better to moderate discounts.
 The sales volume generally decreases as the discount rate increases beyond a certain point.
 
