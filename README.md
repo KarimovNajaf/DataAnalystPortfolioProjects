@@ -35,6 +35,27 @@ Plot Labels:
 Title: Kateqoriyalara görə Qiymət Paylanması (Price Distribution by Category)
 Y-axis: Qiymət (Price)
 X-axis: Məhsul Kateqoriyası (Product Category)
+--------------------------------------------------------------
 
+Sales Volume by Product Category and Discount Level
 
+This heatmap illustrates the number of sales across different product categories and discount levels. The x-axis represents discount rates (from 0% to 35%), and the y-axis represents product categories. The darker the cell, the higher the number of sales.
+
+![photo_2025-05-25_00-23-28](https://github.com/user-attachments/assets/5959d155-fc7d-4e0d-8405-3f7312de2197)
+
+Key insights:Electronics, Books, and Clothing are among the top-selling categories, especially at lower discount levels.
+Cosmetics and Home Accessories have lower overall sales but respond better to moderate discounts.
+The sales volume generally decreases as the discount rate increases beyond a certain point.
+
+Language: Azerbaijani
+
+Plot Labels:
+
+Title: Məhsul Kateqoriyası və Endirim Səviyyəsi üzrə Satış Sayı — Sales Volume by Product Category and Discount Level
+
+X-axis: Endirim Dərəcəsi — Discount Rate
+
+Y-axis: Məhsul Kateqoriyası — Product Category
+
+----------------------------------------------------------------------------
 
