@@ -17,7 +17,7 @@ plt.text() – Displays the exact sales count next to each bar.
 
 tight_layout() – Optimizes spacing so labels and titles fit neatly.
 
-
+----------------------------------------
 
 Distribution of Prices by Category
 This boxplot visualizes the distribution of product prices across different categories. The x-axis represents various product categories (e.g., Clothing, Electronics, Food), and the y-axis shows the corresponding prices.
