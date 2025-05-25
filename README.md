@@ -22,7 +22,8 @@ tight_layout() – Optimizes spacing so labels and titles fit neatly.
 Distribution of Prices by Category
 This boxplot visualizes the distribution of product prices across different categories. The x-axis represents various product categories (e.g., Clothing, Electronics, Food), and the y-axis shows the corresponding prices.
 
-![photo_2025-05-25_00-23-27](https://github.com/user-attachments/assets/ccdcfe48-5c62-4a40-96fe-5bb0237a6b06)
+![2](https://github.com/user-attachments/assets/fb1ee582-2498-459f-a776-502b72edc664)
+
 Key insights:
 
 Electronics have the highest price range and variability compared to other categories.
