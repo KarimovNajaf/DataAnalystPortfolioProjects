@@ -65,7 +65,7 @@ Y-axis: Məhsul Kateqoriyası — Product Category
 
 Overall Sales Share by Product Category
 This pie chart illustrates the proportion of total sales represented by each product category. Each slice indicates the percentage share of that category in the overall sales.
-![photo_2025-05-25_00-23-28 (3)](https://github.com/user-attachments/assets/a2741583-80b4-4ad7-bd47-df882e4ebbab)
+![2218](https://github.com/user-attachments/assets/a32e2d33-3c6e-4e05-94fb-3241f672a0af)
 
 Key insights:
 
