@@ -1,4 +1,4 @@
-﻿# DataAnalystPortfolioProjects
+![HR Dashboard](https://github.com/user-attachments/assets/2c3ab77e-fe83-4b4c-b1c2-0bfff0190ebb)﻿# DataAnalystPortfolioProjects
 Following are my projects in SQL, Python, Tableau & Excel:
 
 You can also take a look at my Linkedin : www.linkedin.com/in/najaf-karimov-5a094a350/
@@ -79,3 +79,71 @@ The category labeled “Other” accounts for 18.8%, covering all remaining mino
 Plot Labels:
 
 Title: Məhsul Kateqoriyalarının Ümumi Satışda Payı — Overall Sales Share by Product Category
+
+--------------------------
+
+📊 HR Analytics Dashboard (Built with Power BI)
+This HR Analytics Dashboard was developed using Microsoft Power BI to provide a clear and interactive overview of employee attrition across multiple dimensions. It helps HR teams and decision-makers understand patterns and trends related to employee turnover, salary, satisfaction, and demographics.
+
+![HR Dashboard](https://github.com/user-attachments/assets/677055df-f13e-4ed8-9e3d-794674967721)
+
+🧩 Key Features:
+| Metric                  | Value    |
+| ----------------------- | -------- |
+| 👥 Total Employees      | 1,416    |
+| 🔻 Total Attrition      | 229      |
+| 📉 Attrition Rate       | 16.2%    |
+| 👤 Average Age          | 37 years |
+| 💶 Avg Salary           | €6.5K    |
+| 🕒 Avg Years at Company | 7 years  |
+
+📈 Visuals Included:
+Attrition by Education
+A donut chart showing attrition based on employee education fields (Life Sciences, Medical, Marketing, etc.).
+
+Attrition by Age Group
+Bar chart that highlights the highest attrition occurs in the 26–35 age range.
+
+Attrition by Years at Company
+A line graph showing the number of employees leaving based on tenure.
+
+Attrition by Salary Slab
+Horizontal bar chart showing that the majority of attrition happens in lower salary brackets (up to €5K).
+
+Attrition by Job Satisfaction Score
+A matrix displaying attrition count per job role and satisfaction score (1 to 4), giving insight into morale and satisfaction impact.
+
+Attrition by Gender
+Simple yet clear breakdown showing the gender distribution of attrition (122 males vs. 64 females).
+
+
+💼 Job Role Filters:
+Users can filter the dashboard by departments like:
+
+Human Resources
+
+Research & Development
+
+Sales
+
+This enhances interactivity and lets HR professionals drill down into specific domains for deeper insights.
+
+
+🛠 Built With:
+Microsoft Power BI Desktop
+
+Custom visualizations and DAX measures
+
+Interactive filters for slicing data by job role
+
+
+📂 Use Cases:
+Identify high-risk groups for turnover
+
+Understand salary and satisfaction correlations with attrition
+
+Support data-driven HR strategy and retention programs
+
+
+🧠 Insight:
+Most attrition occurs in low-salary brackets, among young professionals (26–35), and within certain roles like Sales Executive and Research Scientist — suggesting that targeted retention strategies in these areas could significantly reduce overall attrition.
