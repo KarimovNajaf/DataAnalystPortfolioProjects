@@ -4,7 +4,9 @@ Following are my projects in SQL, Python, Tableau & Excel:
 You can also take a look at my Linkedin : www.linkedin.com/in/najaf-karimov-5a094a350/
 
 📊 Visualizing the Top 5 Best-Selling Products (Python, Pandas, Matplotlib)
-![photo_2025-05-25_00-18-28](https://github.com/user-attachments/assets/f40d3e0a-d4de-4b7b-8d0f-89946598e43b)
+
+![2222](https://github.com/user-attachments/assets/7f8a507c-fa33-4cc9-9549-c3470d3685d4)
+
 📌 Explanation:
 
 groupby('product_name')['quantity'].sum() – Groups the data by product name and calculates the total quantity sold for each.
