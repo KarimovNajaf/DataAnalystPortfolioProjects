@@ -42,7 +42,8 @@ Sales Volume by Product Category and Discount Level
 
 This heatmap illustrates the number of sales across different product categories and discount levels. The x-axis represents discount rates (from 0% to 35%), and the y-axis represents product categories. The darker the cell, the higher the number of sales.
 
-![photo_2025-05-25_00-23-28](https://github.com/user-attachments/assets/5959d155-fc7d-4e0d-8405-3f7312de2197)
+
+![22](https://github.com/user-attachments/assets/b3a42577-6acf-4e84-a025-3464d2247fd2)
 
 Key insights:
 
