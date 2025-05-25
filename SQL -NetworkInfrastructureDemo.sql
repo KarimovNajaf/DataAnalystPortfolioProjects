@@ -125,6 +125,9 @@ CREATE TABLE sifarisler (
     FOREIGN KEY (musteri_id) REFERENCES musteriler(musteri_id)
 );
 
+
+
+-----------------------
 Mürəkkəb Sorğu (JOIN, GROUP BY, HAVING)
 Kod:
 
