@@ -1,4 +1,4 @@
-![HR Dashboard](https://github.com/user-attachments/assets/2c3ab77e-fe83-4b4c-b1c2-0bfff0190ebb)﻿# DataAnalystPortfolioProjects
+
 Following are my projects in SQL, Python, Tableau & Excel:
 
 You can also take a look at my Linkedin : www.linkedin.com/in/najaf-karimov-5a094a350/
